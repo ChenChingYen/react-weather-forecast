@@ -1,11 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Weather Forecast",
+  "name": "React Weather Forecast App",
   "icons": [
     {
       "src": "logo.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
